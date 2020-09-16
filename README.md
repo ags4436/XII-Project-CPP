@@ -9,7 +9,7 @@ Automated ATM Machine with Card less Trasaction
   ▪ TRANSACTION
   ▪ LOGOUT
   
-  This is a completely custom coded Graphical Interface with C++ implemented with Object Oriented Programming 
+  This is a completely custom coded Graphical Interface designed using C++ and implemented with Object Oriented Programming 
   
   The interesting Part of this Project 
   ------------------------------------
